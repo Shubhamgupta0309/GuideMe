@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">GuideMe</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blind_mode">Blind Mode</string>
+    <string name="instructions">⭕ To Master the navigation through this App, follow these instructions below 😎.\n\n1️⃣ Double Tap on the Navigation screen to Enter in the Assistant Mode ⚡. and again double tap to exit the Navigation mode. \n\n2️⃣ While in Navigation Mode long press the screen enter the reading mode ☝. \n\nYou can also visit the YouTube video to see detailed navigation on the App. By following these, you can teach an impaired person how to use this app.</string>
+    <string name="instructions_tts">To Master the navigation through this App, follow these instructions below. Double Tap on the Navigation screen to stop the Navigation or vice versa. Right after, speak any query about anything or the environment around you. You also can use your earbuds or airpods by double tapping to stop or resume the navigation. You can also visit the YouTube video to see detailed navigation on the App. By following these, you can teach an impaired person how to use this app.</string>
 </resources>
